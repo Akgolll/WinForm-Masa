@@ -1,0 +1,30 @@
+C:\Users\huawei\Desktop\Projelerim\Kasa_isleri\Kasa_isleri\bin\Debug\Kasa_isleri.exe.config
+C:\Users\huawei\Desktop\Projelerim\Kasa_isleri\Kasa_isleri\bin\Debug\Kasa_isleri.exe
+C:\Users\huawei\Desktop\Projelerim\Kasa_isleri\Kasa_isleri\bin\Debug\Kasa_isleri.pdb
+C:\Users\huawei\Desktop\Projelerim\Kasa_isleri\Kasa_isleri\obj\Debug\Kasa_isleri.csproj.AssemblyReference.cache
+C:\Users\huawei\Desktop\Projelerim\Kasa_isleri\Kasa_isleri\obj\Debug\Kasa_isleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\huawei\Desktop\Projelerim\Kasa_isleri\Kasa_isleri\obj\Debug\Kasa_isleri.Form1.resources
+C:\Users\huawei\Desktop\Projelerim\Kasa_isleri\Kasa_isleri\obj\Debug\Kasa_isleri.Properties.Resources.resources
+C:\Users\huawei\Desktop\Projelerim\Kasa_isleri\Kasa_isleri\obj\Debug\Kasa_isleri.csproj.GenerateResource.cache
+C:\Users\huawei\Desktop\Projelerim\Kasa_isleri\Kasa_isleri\obj\Debug\Kasa_isleri.csproj.CoreCompileInputs.cache
+C:\Users\huawei\Desktop\Projelerim\Kasa_isleri\Kasa_isleri\obj\Debug\Kasa_isleri.exe
+C:\Users\huawei\Desktop\Projelerim\Kasa_isleri\Kasa_isleri\obj\Debug\Kasa_isleri.pdb
+C:\Users\huawei\Desktop\Projelerim\Kasa_isleri\Kasa_isleri\obj\Debug\Kasa_isleri.frm_masa1.resources
+C:\Users\huawei\Desktop\Projelerim\Kasa_isleri\Kasa_isleri\obj\Debug\Kasa_isleri.Masalar.frm_Masa2.resources
+C:\Users\huawei\Desktop\Projelerim\Kasa_isleri\Kasa_isleri\obj\Debug\Kasa_isleri.Masalar.frm_masa3.resources
+C:\Users\huawei\Desktop\Projelerim\Kasa_isleri\Kasa_isleri\obj\Debug\Kasa_isleri.Masalar.frm_Masa4.resources
+D:\C# kurs\Projelerim\Kasa_isleri\Kasa_isleri\bin\Debug\Kasa_isleri.exe.config
+D:\C# kurs\Projelerim\Kasa_isleri\Kasa_isleri\bin\Debug\Kasa_isleri.exe
+D:\C# kurs\Projelerim\Kasa_isleri\Kasa_isleri\bin\Debug\Kasa_isleri.pdb
+D:\C# kurs\Projelerim\Kasa_isleri\Kasa_isleri\obj\Debug\Kasa_isleri.csproj.AssemblyReference.cache
+D:\C# kurs\Projelerim\Kasa_isleri\Kasa_isleri\obj\Debug\Kasa_isleri.csproj.SuggestedBindingRedirects.cache
+D:\C# kurs\Projelerim\Kasa_isleri\Kasa_isleri\obj\Debug\Kasa_isleri.Form1.resources
+D:\C# kurs\Projelerim\Kasa_isleri\Kasa_isleri\obj\Debug\Kasa_isleri.frm_masa1.resources
+D:\C# kurs\Projelerim\Kasa_isleri\Kasa_isleri\obj\Debug\Kasa_isleri.Masalar.frm_Masa2.resources
+D:\C# kurs\Projelerim\Kasa_isleri\Kasa_isleri\obj\Debug\Kasa_isleri.Masalar.frm_masa3.resources
+D:\C# kurs\Projelerim\Kasa_isleri\Kasa_isleri\obj\Debug\Kasa_isleri.Masalar.frm_Masa4.resources
+D:\C# kurs\Projelerim\Kasa_isleri\Kasa_isleri\obj\Debug\Kasa_isleri.Properties.Resources.resources
+D:\C# kurs\Projelerim\Kasa_isleri\Kasa_isleri\obj\Debug\Kasa_isleri.csproj.GenerateResource.cache
+D:\C# kurs\Projelerim\Kasa_isleri\Kasa_isleri\obj\Debug\Kasa_isleri.csproj.CoreCompileInputs.cache
+D:\C# kurs\Projelerim\Kasa_isleri\Kasa_isleri\obj\Debug\Kasa_isleri.exe
+D:\C# kurs\Projelerim\Kasa_isleri\Kasa_isleri\obj\Debug\Kasa_isleri.pdb
